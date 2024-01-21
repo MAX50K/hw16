@@ -1,0 +1,8 @@
+.bg-box{
+    background: url("../img/smth.jpg") no-repeat center,
+    url("../img/green-png-44873.png") repeat-x bottom, 
+    url("../img/lamp-png-34914.png") repeat-y left;
+    height: 800px;
+    background-color: green;
+
+}
