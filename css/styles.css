@@ -1,10 +1,10 @@
 .bg-box{
     background: url("../img/smth.jpg") no-repeat center,
-    url("../img/green-png-44873.png") repeat-x bottom, 
-    url("../img/lamp-png-34914.png") repeat-x top,
-    url("../img/ishak.webp") repeat-y left,
-    url("../img/ponchik.png") repeat-y right;
-    height: 800px;
+    url("../img/green-png-44873.png") repeat-x bottom/30%, 
+    url("../img/lamp-png-34914.png") repeat-x top/3%,
+    url("../img/ishak.webp") repeat-y left/3%,
+    url("../img/ponchik.png") repeat-y right/3%;
+    height: 810px;
     background-color: green;
 }
 
